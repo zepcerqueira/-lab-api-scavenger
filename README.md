@@ -76,9 +76,9 @@ Again, the documentation of Github API is [here](https://developer.github.com/v3
 
 ### Challenge 2: Count Commits
 
-Assuming the main lab repo is `ta-data-lis/lab-mysql-first-queries`, you will count how many commits were made in the past 2 weeks:
+Assuming the main lab repo is `ta-data-lis/lab-mysql-first-queries`, you will count how many commits were made in the past 3 weeks:
 
-1. Obtain all the commits made in the past 2 weeks via API, which is a JSON array that contains multiple commit objects.
+1. Obtain all the commits made in the past 3 weeks via API, which is a JSON array that contains multiple commit objects.
 
 1. Count how many commit objects are contained in the array.
 
