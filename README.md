@@ -10,6 +10,7 @@ In the lesson, you have learned how to make Python requests to APIs and parse th
 
 In order to get started, we'd like you to create an access token in your [Github account](https://github.com/settings/tokens). 
 
+1. Go to Top Right and click on 'Settings'.
 1. Click `Generate new token` in the page.
 1. Enter token description.
 1. Select the scopes for which you allow the token to access. Check at least all the `repo` checkboxes as shown in the screenshot below.
