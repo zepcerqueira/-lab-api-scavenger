@@ -11,12 +11,14 @@ In the lesson, you have learned how to make Python requests to APIs and parse th
 In order to get started, we'd like you to create an access token in your [Github account](https://github.com/settings/tokens). 
 
 1. Go to Top Right and click on `Settings`.
-1. Click `Generate new token` in the page.
+1. On the Bottom Left, click on `Developer Settings`.
+1. Click on `Personal access tokens` then `Tokens (classic)`.
+1. Click `Generate new token` in the page, then `Generate new token (classic)`.
 1. Enter token description.
 1. Select the scopes for which you allow the token to access. Check at least all the `repo` checkboxes as shown in the screenshot below.
 1. Click `Generate token`. Github will create a personal access token for you. 
 
-![Github create personal token](images/github-create-token.png)
+![Github create personal token](images/token_gen.png)
 
 A personal access token is a secret password to allow you or your app to make remote requests to the Github API. It is the same [oAuth](https://oauth.net/) technology as the Twitter developer access token discussed in the lesson but in Github you don't need to wait for the approval and your token will be available immediately. 
 
